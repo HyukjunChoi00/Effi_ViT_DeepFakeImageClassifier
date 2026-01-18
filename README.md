@@ -10,6 +10,12 @@ EfficientNet-B4를 사용한 딥페이크 이미지 탐지 모델
 pip install -r requirements.txt
 ```
 
+## 빠른 테스트
+```bash
+!git clone https://github.com/HyukjunChoi00/Effi_ViT_DeepFakeImageClassifier
+cd Effi_ViT_DeepFakeImageClassifier
+pip install -r requirements.txt
+python train_deepfake_detection.py
 ---
 
 ## 🚀 빠른 시작 (3단계)
