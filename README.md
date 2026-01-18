@@ -7,7 +7,7 @@ EfficientNet-B4를 사용한 딥페이크 이미지 탐지 모델
 ## 📦 필요한 라이브러리 설치
 
 ```bash
-pip install torch torchvision datasets huggingface-hub pillow numpy matplotlib tqdm scikit-learn
+pip install -r requirements.txt
 ```
 
 ---
