@@ -1,0 +1,27 @@
+# PyTorch (CUDA 버전에 맞게 선택)
+torch==2.7.0
+torchvision==0.22.0
+
+# HuggingFace Datasets
+datasets==4.1.1
+
+# Image Processing
+Pillow==10.4.0
+
+# Data Processing
+numpy==1.26.4
+
+# Visualization
+matplotlib==3.9.0
+
+# Progress Bar
+tqdm==4.66.5
+
+# Machine Learning Metrics
+scikit-learn==1.5.1
+
+# HuggingFace Hub (datasets 의존성)
+huggingface-hub==0.33.2
+
+# Arrow (datasets 의존성)
+pyarrow==21.0.0
