@@ -92,10 +92,6 @@ config = {
 }
 ```
 
-### GPU 메모리별 권장 배치 크기:
-- **8GB:** `batch_size = 8`
-- **12GB:** `batch_size = 12-16` ✅
-- **16GB+:** `batch_size = 20-32`
 
 ---
 
@@ -109,6 +105,7 @@ Epoch 15: Train Acc: 96% | Val Acc: 95%
 Epoch 20: Train Acc: 97% | Val Acc: 96%
 
 Test Accuracy: 96-98%
+예시일 뿐..  
 ```
 
 ---
